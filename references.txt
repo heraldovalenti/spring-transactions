@@ -1,0 +1,3 @@
+https://docs.spring.io/spring/docs/4.2.x/spring-framework-reference/html/transaction.html
+https://docs.spring.io/spring/docs/4.2.x/spring-framework-reference/html/orm.html
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-data-access.html
